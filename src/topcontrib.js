@@ -2,6 +2,7 @@
  * This script color-codes lines according to who has the top contribution for a page.
  * @source: [[w:en:User:Ais523/topcontrib.js]]
  * @author: [[w:en:User:Ais523]]
+ * @traking: [[Special:GlobalUsage/User:Helder.wiki/Tools/topcontrib.js]] ([[File:User:Helder.wiki/Tools/topcontrib.js]])
  */
 if (mw.config.get('wgCanonicalSpecialPageName') === 'Contributions') {
 	$(function () {
